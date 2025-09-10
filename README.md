@@ -1,9 +1,7 @@
 # kuluo_TicTacToe：秋招井字棋小游戏
 
 借着上传的时间，闲着也是闲着，就在 README 上随便水点啥吧！
-PS：备用链接：我用夸克网盘给你分享了「TicTacToe_v2.0 - 副本」，点击链接或复制整段内容，打开「夸克APP」即可获取。
-/~e05c38DqQM~:/
-链接：https://pan.quark.cn/s/2dc4a0ccf698
+PS：备用链接：https://pan.quark.cn/s/2dc4a0ccf698
 
 ## 项目简介
 
