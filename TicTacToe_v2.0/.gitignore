@@ -1,0 +1,33 @@
+# ==============
+# Unity 核心忽略
+# ==============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ==============
+# 资产包缓存
+# ==============
+[Pp]ackages/
+
+# ==============
+# 自动生成的IDE文件
+# ==============
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# 注意：不要忽略 .meta 文件！它们必须和资产一起提交。
